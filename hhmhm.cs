@@ -2,7 +2,7 @@ using System;
 (prathap)
 namespace ConsoleApp1
 {
-    class Program
+    class Program this is class program
     {
         static void Main(string[] args)
         {
