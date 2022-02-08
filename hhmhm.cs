@@ -1,6 +1,11 @@
 using System;
-(prathap)
+
+this ia editing simple work (prathap)
+
 namespace ConsoleApp1
+
+{
+
 {
     class Program
     {
@@ -20,4 +25,6 @@ namespace ConsoleApp1
 
         }
     }
+}
+
 }
