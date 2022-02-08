@@ -1,6 +1,11 @@
 using System;
-(prathap)
+
+this is also a conflict (prathap)
+
 namespace ConsoleApp1
+
+{
+
 {
     class Program this is class program
     {
@@ -20,4 +25,6 @@ namespace ConsoleApp1
 
         }
     }
+}
+
 }
